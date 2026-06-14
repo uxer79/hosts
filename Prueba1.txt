@@ -1,1 +1,7 @@
 # pruebas1
+
+
+0.0.0.0 au.download.windowsupdate.com
+0.0.0.0 tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 emdl.ws.microsoft.com
