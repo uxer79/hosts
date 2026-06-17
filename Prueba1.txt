@@ -6,6 +6,6 @@
 0.0.0.0 dl.delivery.mp.microsoft.com
 0.0.0.0 emdl.ws.microsoft.com
 
+0.0.0.0 dl.acronis.com
 
-# Prueba maxima GRANDE
 
